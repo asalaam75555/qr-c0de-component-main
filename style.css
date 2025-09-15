@@ -66,4 +66,7 @@ img{
     padding: 10px;
 }
 
-
+main{
+    flex: 0;
+    margin: auto;
+}
