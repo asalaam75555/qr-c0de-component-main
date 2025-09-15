@@ -4,6 +4,7 @@
 #####################################################
 *.sketch
 *.fig
+.vscode/settings.json
 
 # Avoid accidental XD upload if you convert the design file
 ###############################################
