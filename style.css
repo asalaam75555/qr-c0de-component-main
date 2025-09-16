@@ -22,7 +22,7 @@ body{
     align-items: center;
     margin: auto;
     padding: 5px; 
-    height: 350px;
+    height: auto;
     width: 215px;
     text-align: center;
     background-color:  hsl(0, 0%, 100%);
@@ -37,10 +37,10 @@ img{
 }
 
 .attribution {
-    display: flex;
+    /* display: flex;
     flex: 0;
     justify-content: center;
-    align-items: flex-end;
+    align-items: flex-end; */
     padding: 1rem;
 }
 
