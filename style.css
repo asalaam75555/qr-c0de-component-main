@@ -61,12 +61,16 @@ img{
     color: grey;
 }
 
-.bold-text{
+/* .bold-text{
     font-weight: bold;
     padding: 10px;
-}
+} */
 
 main{
     flex: 0;
     margin: auto;
+}
+
+h1{
+    font-size: 1.25rem;
 }
